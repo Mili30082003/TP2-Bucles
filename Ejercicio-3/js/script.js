@@ -9,7 +9,7 @@ do {
     }
     
 } while (confirm('Desea continuar?'));
-document.write ('frase Ingresada: ${frase}');
+document.write (`frase Ingresada: ${frase}`);
 
  
 
